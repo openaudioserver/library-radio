@@ -1,4 +1,4 @@
-# Library Radio
+# Library: Radio
 
 A module for [Library](https://github.com/openaudioserver/library) that adds SHOUTcast radio station genre browsing and streaming.
 
